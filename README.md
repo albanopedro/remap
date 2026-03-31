@@ -1,7 +1,7 @@
 # ECU Remap Tool - Otimização de Veículos
 
-Ferramenta profissional para reprogramação eletrônica (remap) de ECU automotiva, permitindo otimização de potência e torque.
-
+portugues: Um amigo me desafiou a criar um código para reprogramar a ECU do carro, e achei que seria legal compartilhar aqui (os códigos nunca foram testados, é tudo brincadeira, não fiz nenhum teste de verdade, rsrs, não me responsabilizo por explosões ou quaisquer problemas que ocorram no carro se alguém tentar isso).
+ingles: A friend challenged me to create a code to remap (reprogram the car's ECU), and I thought it would be cool to share it here (the codes have never been tested, it's all just a joke, I haven't done any real tests lol, I'm not responsible for anything exploding or any problems that occur in the car if someone tries this).
 ## Recursos
 
 - **Leitura de ECU**: Suporta arquivos binários e hexadecimais
